@@ -1,0 +1,7 @@
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise2/build/CMakeFiles/PolygonalMesh.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise2/build/CMakeFiles/edit_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise2/build/CMakeFiles/rebuild_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise2/build/src/CMakeFiles/edit_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise2/build/src/CMakeFiles/rebuild_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise2/build/ExportParaview/CMakeFiles/edit_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise2/build/ExportParaview/CMakeFiles/rebuild_cache.dir

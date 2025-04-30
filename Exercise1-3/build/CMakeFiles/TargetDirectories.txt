@@ -1,0 +1,7 @@
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise1-3/build/CMakeFiles/TriangularMesh.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise1-3/build/CMakeFiles/edit_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise1-3/build/CMakeFiles/rebuild_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise1-3/build/src/CMakeFiles/edit_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise1-3/build/src/CMakeFiles/rebuild_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise1-3/build/ExportParaview/CMakeFiles/edit_cache.dir
+/Users/andrea/Documents/progC/Esercitazione_5_STL/Exercise1-3/build/ExportParaview/CMakeFiles/rebuild_cache.dir
